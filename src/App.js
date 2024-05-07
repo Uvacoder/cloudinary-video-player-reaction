@@ -16,7 +16,7 @@ export default function App() {
     <ChakraProvider>
       <div className="App">
         <Text fontSize="5xl" fontWeight="bold" textAlign="center">
-          Video Timeline Emoji Reactions With Cloudinary Video Player
+          This is a Video Timeline Emoji Reactions With Cloudinary Video Player
         </Text>
         {
           <Box className="video-card" mx="15px">
